@@ -7,6 +7,7 @@
 ## Links and learning
 
 - We are using the [Terraform Plugin Framework](https://github.com/hashicorp/terraform-plugin-framework).
+- Main tutorial [Hashicups](https://developer.hashicorp.com/terraform/tutorials/providers-plugin-framework/providers-plugin-framework-resource-create).
 
 ## Folders
 
