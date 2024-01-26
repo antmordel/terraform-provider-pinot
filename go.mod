@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-scaffolding-framework
+module github.com/antmordel/terraform-provider-pinot
 
 go 1.20
 
